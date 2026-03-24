@@ -1,5 +1,4 @@
 # Profil
-Profil Repo
 👨‍💻 Christian Dabringhausen
 🔐 Cybersecurity | AI | Cloud Transformation
 
